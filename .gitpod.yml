@@ -32,9 +32,9 @@ tasks:
     init: gp sync-await init-java
     command: >
       cd /usr/local &&
-      sudo wget https://dlcdn.apache.org/kafka/3.2.0/kafka_2.13-3.2.0.tgz &&
-      sudo tar xzf kafka_2.13-3.2.0.tgz &&
-      sudo mv kafka_2.13-3.2.0 /usr/local/kafka &&
+      sudo wget https://dlcdn.apache.org/kafka/3.2.3/kafka_2.13-3.2.3.tgz &&
+      sudo tar xzf kafka_2.13-3.2.3.tgz &&
+      sudo mv kafka_2.13-3.2.3 /usr/local/kafka &&
       gp sync-done init-kafka-zookeeper &&
       sudo chmod -R 777 kafka &&
       /usr/local/kafka/bin/zookeeper-server-start.sh /usr/local/kafka/config/zookeeper.properties
