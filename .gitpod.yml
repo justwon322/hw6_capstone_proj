@@ -16,20 +16,12 @@ tasks:
       sudo apt update &&
       sudo apt install net-tools && exit
 
-  - name: java
-    command: >
-      sdk install java 17.0.3-ms < /dev/null &&
-      sdk default java 17.0.3-ms &&
-      java --version &&
-      gp sync-done init-java && exit
-
   - name: kafka-docker
     command: > 
       cd kafka-docker &&
       docker-compose up -d && exit
 
   - name: kafka-zookeeper
-    init: gp sync-await init-java
     command: >
       cd /usr/local &&
       sudo wget https://dlcdn.apache.org/kafka/3.2.3/kafka_2.13-3.2.3.tgz &&
