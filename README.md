@@ -5,8 +5,8 @@
 ## 📢 About
 
 - 지원
-  - 디지털워크그룹 / 김은종 대리
-  - Digital Native TF / 조성국 대리
+  - 서비스운영2팀 / 최원식 과장
+  - Platform개발팀 / 김영준 대리
 - Platform
 
   - ZOOM
@@ -21,11 +21,11 @@
 
   |   일자    | 진행           | 내용                                |
   | :-------: | :------------- | :---------------------------------- |
-  | 09/21 AM  | OJT            | 과정설명<br>과제수행환경설명        |
-  | 09/21 PM  | Brain Storming | msaez.io                            |
-  | 09/22 ALL | Team Project   | 팀별과제 수행                       |
-  | 09/23 AM  | Team Project   | 팀별과제 수행                       |
-  | 09/23 PM  | Wrap Up        | 과제 제출<br>시작:14시<br>마감:16시 |
+  | 10/24 AM  | OJT            | 과정설명<br>과제수행환경설명        |
+  | 10/24 PM  | Brain Storming | msaez.io                            |
+  | 10/25 ALL | Team Project   | 팀별과제 수행                       |
+  | 10/26 AM  | Team Project   | 팀별과제 수행                       |
+  | 10/26 PM  | Wrap Up        | 과제 제출<br>시작:14시<br>마감:16시 |
 
 - 시간별 진행
 
