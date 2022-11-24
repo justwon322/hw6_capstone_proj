@@ -85,7 +85,7 @@
 
   - 팀별로 주제 선정 및 이벤트 스토밍 진행
 
-- GitHub : [https://github.com/seonguk9303/hw5_capstone_proj]
+- GitHub : [https://github.com/wonshik88/hw6_capstone_proj]
 - GitPod
   - Github 계정 및 Repositoy(public) 준비 ( **for FORK** )
   - gitpod.io/#/{Github-Repository-URL} or Browser Extension 설치(https://www.gitpod.io/docs/browser-extension)
