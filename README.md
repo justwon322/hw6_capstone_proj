@@ -5,8 +5,7 @@
 ## 📢 About
 
 - 지원
-  - 서비스운영2팀 / 최원식 과장
-  - Platform개발팀 / 김영준 대리
+  - Digital Native TF팀 / 유용원 사원
 - Platform
 
   - ZOOM
@@ -21,11 +20,11 @@
 
   |   일자    | 진행           | 내용                                |
   | :-------: | :------------- | :---------------------------------- |
-  | 10/24 AM  | OJT            | 과정설명<br>과제수행환경설명        |
-  | 10/24 PM  | Brain Storming | msaez.io                            |
-  | 10/25 ALL | Team Project   | 팀별과제 수행                       |
-  | 10/26 AM  | Team Project   | 팀별과제 수행                       |
-  | 10/26 PM  | Wrap Up        | 과제 제출<br>시작:14시<br>마감:16시 |
+  | 12/05 AM  | OJT            | 과정설명<br>과제수행환경설명        |
+  | 12/05 PM  | Brain Storming | msaez.io                            |
+  | 12/06 ALL | Team Project   | 팀별과제 수행                       |
+  | 12/07 AM  | Team Project   | 팀별과제 수행                       |
+  | 12/07 PM  | Wrap Up        | 과제 제출<br>시작:14시<br>마감:16시 |
 
 - 시간별 진행
 
@@ -43,12 +42,13 @@
 
 | 팀  |   성명   | 직급 | 소속             |
 | :-: | :------: | :--: | :--------------- |
-|  1  | 🎖 김효민 | 대리 | SharedService2팀   |
-|     |  김정훈 | 차장 | 유화서비스프로젝트팀   |
-|     |  유용원  | 사원 | Digital Native TF   |
-|     |  이슬기 | 대리 | Platform개발팀  |
-|  2  | 🎖 장익석 | 차장 | SharedService1팀  |
-|     |  윤일중  | 대리 | 스마트C&E프로젝트팀   |
+|  1  | 🎖 김성진 | 과장 | 금융운영팀   |
+|     |  김대승 | 대리 | 아키텍트팀   |
+|     |  양원모  | 대리 | 금융운영팀   |
+|     |  박병준 | 사원 | 보안운영팀  |
+|  2  | 🎖 한정희 | 과장 | 금융운영팀  |
+|     |  허진영  | 대리 | SharedService2팀   |
+|     |  정건우  | 대리 | 금융운영팀   |
 
 ## 🤷🏻‍♂️🤷🏻‍♀️ Curriculum
 
@@ -85,7 +85,7 @@
 
   - 팀별로 주제 선정 및 이벤트 스토밍 진행
 
-- GitHub : [https://github.com/wonshik88/hw6_capstone_proj]
+- GitHub : [https://github.com/justwon322/hw7_capstone_proj]
 - GitPod
   - Github 계정 및 Repositoy(public) 준비 ( **for FORK** )
   - gitpod.io/#/{Github-Repository-URL} or Browser Extension 설치(https://www.gitpod.io/docs/browser-extension)
@@ -95,7 +95,7 @@
   * gitpod 초기 연동시 필요한 라이브러리들이 없는 상태이며 **.gitpod.yml** 파일에 선언한 명령어들 자동 실행됨
   * 실행 안되는 명령어들이 있으면 직접 설치
 - AWS (_약 15~20분 소요_)
-  - AWS IAM 계정(MSA5차수).xlsx 참고
+  - AWS IAM 계정(MSA7차수).xlsx 참고
   - Region-Code : 메일 내 Region
   - Cluster-Name : Account-Id
   - Image-Repository-Name : Account-Id
